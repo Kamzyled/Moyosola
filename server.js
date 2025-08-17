@@ -1,4 +1,4 @@
-server.js
+
 
 import express from "express";
 import { nanoid } from "nanoid";
