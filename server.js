@@ -657,5 +657,5 @@ setInterval(() => {
 
 // ------------------------- START ------------------------------------
 app.listen(PORT, () => {
-  console.log(\`Moyosola backend running on port \${PORT} — questions=\${QUESTIONS_POOL.length}\`);
+  console.log(`Moyosola backend running on port ${PORT} — questions=${QUESTIONS_POOL.length}`);
 });
